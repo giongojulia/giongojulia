@@ -1,7 +1,7 @@
-### Oiii!Eu sou a Julia Giongo 👋
+### Oiii!Eu sou a Julia Giongo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-- 🔭 Atualmente estou estudando na Alura.
-- 🌱 Projeto EduTech.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />  Atualmente estou estudando na Alura.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />  Projeto EduTech.
 
 <div>
   <a href="https://github.com/giongojulia">
