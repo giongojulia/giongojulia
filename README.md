@@ -1,12 +1,12 @@
 ### Oiii!Eu sou a Julia Caroline Giongo
 
--[x] Atualmente estou estudando na Alura.
--[x] Projeto EduTech.
+- [x] Atualmente estou estudando na Alura.
+- [x] Projeto EduTech.
 
 <div>
   <a href="https://github.com/giongojulia">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=giongojulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giongojulia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=giongojulia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giongojulia&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style = "display: inline-block">  <br>
