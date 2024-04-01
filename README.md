@@ -1,7 +1,6 @@
 ### Oiii!Eu sou a Julia Caroline Giongo
 
-- [x] Atualmente estou estudando na Alura.
-- [x] Projeto EduTech.
+- [x] Participei do Projeto EduTech.
 
 <div>
   <a href="https://github.com/giongojulia">
